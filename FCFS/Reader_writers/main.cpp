@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Reader_writers
+//  FCFS scheduling
 //
 //  Created by Aman Khullar on 3/27/17.
 //  Copyright © 2017 Aman Khullar. All rights reserved.
